@@ -1,1 +1,1 @@
-# Click the wiki button, or click [here](https://github.com/Ruinscraft/mcatlas-wiki/wiki) to view the MCAtlas Wiki
+# Click the wiki button or [here](https://github.com/Ruinscraft/mcatlas-wiki/wiki) to view the MCAtlas Wiki
